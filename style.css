@@ -56,7 +56,7 @@ body {
 
 @media(max-width: 768px)  {
   caption h1 {
-    font-size: 1.4rem;
+    font-size: .5rem;
     letter-spacing: .15rem;
     padding-bottom: .5 rem;
   }
